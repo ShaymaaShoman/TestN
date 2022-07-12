@@ -1,0 +1,297 @@
+body{
+ margin: o ;
+      
+}
+.container{
+width: 80%;
+ margin: 0 auto;
+    
+    
+}
+.clearfix{
+    clear: both;
+}
+
+header{
+  color: #9fd0d6;;
+    padding: 20px;
+    margin: 0;
+    
+}
+header img{
+   width: 50 px;
+    height: 50px;
+    float: left;
+    
+}
+header div{
+   
+    display: inline-block;
+    float: left;
+    
+    
+    
+}
+
+
+
+header .menue ul li {
+  
+    border: none;
+    color: #484848;
+    display: block;
+    float: left;
+    font-size: 12px;
+    margin: 0;
+    padding: 0 18px;
+   
+     text-decoration: none;
+}
+header  a{
+  
+   
+   text-decoration: none;
+   color: #484848;
+   
+    
+}
+
+/*main start */
+main{
+ 
+     margin: 0;
+    margin-top: 40px;
+   
+    
+    
+}
+
+main .hero{
+     background-color: #eee;
+    
+}
+main .hero a{
+     text-decoration: none;
+    
+}
+main .hero h1{
+    
+    text-align: center;
+    
+        color: #2d2d2d;
+     padding :30px;
+      margin: 90px;
+    line-height: 50px;
+     
+}
+main .hero .link1 {
+    
+    width: 200px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    margin: 0 auto;
+    border: 1 px solid #0a7cd4; 
+    border-radius: 3px;
+    padding: 10px ;
+    font-size: 1.25 px;
+    font-weight: 400;
+     background-color: #2098f5;
+    border-color: #0a7cd4;
+    color:#fff; 
+}
+main .hero .link1 a{
+     text-decoration: none ;
+    color: #fff;
+    
+}
+    
+main .hero p {
+    
+    text-align: center;
+    color:  color:#00f;
+     
+}
+main .hero p a{
+    text-decoration: none;
+    
+}
+main .hero img{
+    margin: 0 auto;
+    width: 500px;
+    height: 700 px;
+   display: block;
+    
+}
+
+main .feature{
+    
+    color: #898989;
+    font-size: 27px;
+    font-style: normal;
+    font width: 300;
+    font-family:source-sans-pro, sans-serif;
+   
+  
+}
+main .feature p{
+    margin-top: 50px;
+     line-height:42px;
+}
+/*end of feature*/
+
+/* team*/
+
+main .team .fear{
+ display: inline-block;
+
+ font-weight: 300 px;
+    
+    float: left; 
+    width: 50%;
+   margin: 0 30px;
+    width: 33.333333%;
+    height: 150px;
+    padding top: 20 px;
+     margin: 20 px;
+     padding-bottom: 20px;
+    margin-right: 90px;
+    color: #8a8b8c;
+    
+}
+main .team .fear h2 span{
+    color: #2098f5;
+}
+main .team .fear p span{
+    color: #2098f5;
+}
+
+
+
+/* end of team*/
+
+main .skilS {
+    margin: 0px;
+    margin-bottom: 50px;
+     
+}
+
+/* start of skils*/
+main .skilS .box{
+display: inline-block;
+
+ font-weight: 300 px;
+   float: left;
+    width: 33.333333%;
+    height: 150px;
+    padding top: 20 px;
+     margin: 20 px;
+     padding-bottom: 20px;
+    color: #8a8b8c;
+   
+}
+main .skilS .box .img{
+    float:left; 
+   display: inline-block;
+box-sizing: border-box;
+    height:50px;
+line-height:50px;
+    width:50px;
+       
+   
+}
+
+
+main .skilS p{
+    text-rendering: optimizeLegibility;
+    font: 400 14px;
+    font-size:14px;
+    
+font-weight:400;
+    line-height:24px;
+    margin-bottom:30px
+}
+
+
+/* end of skils*/
+/* start of eduction*/
+main .eduction{
+  background-color: #dee9f1; 
+    height: 800px;
+    line-height: 20px;
+    
+   
+}
+main .eduction .exp{
+    display: inline-block;
+
+ font-weight: 300 px;
+   float: left;
+    width: 33.333333%;
+    height: 150px;
+    
+    padding top: 20 px;
+     margin: 20 px;
+     padding-bottom: 20px;
+     color: #8a8b8c;
+    
+    
+}
+main .eduction .exp a{
+    width: 100px;
+    height: 100px;
+  color:#2098f5;
+    text-decoration: none;
+    border: 1px solid #2098f5; 
+    
+    
+    
+}
+main .eduction .exp h3 span{
+    color:#2098f5;
+    
+}
+/* end of eduction*/
+/* start of contct*/
+footer{
+  padding: 20px;  
+  background-color: #000; 
+    color: #fff;
+    margin: 0;
+    margin-top: 20x;
+    
+}
+footer .contact .info{
+     display: inline-block;
+
+ font-weight: 300 px;
+   float: left;
+    width: 23.222222%;
+    margin: 0 8px;
+    height: 150px;
+    
+    padding top: 20 px;
+     margin: 20 px;
+     padding-bottom: 20px;
+     color: #8a8b8c;
+    
+    
+}
+footer .contact .info ul li a{
+    
+    text-decoration: none;
+      color:#2098f5; 
+}
+footer p{
+    text-align: center;
+}
+footer p span{
+    color:#2098f5; 
+}
+
+
+
+
+/* end of contct*/
+
+
